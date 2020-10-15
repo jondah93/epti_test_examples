@@ -2,3 +2,5 @@
 .idea
 .noseids
 EPTI
+__pycache__
+*.pyc
